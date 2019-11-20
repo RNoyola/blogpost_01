@@ -1,3 +1,8 @@
+const functions = require('firebase-functions');
+const admin = require('firebase-admin');
+const moment = require('moment');
+admin.initializeApp();
+
 const ONE_DAY = 86400;
 const TWO_MINUTES = 120;
 
