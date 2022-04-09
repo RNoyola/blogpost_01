@@ -16,7 +16,7 @@
     "@react-native-firebase/auth": "^6.0.3",
     "@react-native-firebase/firestore": "^6.0.3",
     "@react-native-firebase/messaging": "^6.0.3",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "react": "16.8.6",
     "react-native": "0.60.5"
   },
